@@ -1,0 +1,26 @@
+{
+  "name": "sample-with-custom",
+  "title": "Sample With Custom",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/samples-of-arukoh/jquery.sample-with-custom",
+  "author": {
+    "name": "arukoh",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samples-of-arukoh/jquery.sample-with-custom.git"
+  },
+  "bugs": "https://github.com/samples-of-arukoh/jquery.sample-with-custom/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/samples-of-arukoh/jquery.sample-with-custom/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
